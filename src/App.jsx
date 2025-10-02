@@ -6,6 +6,7 @@ const stocks = [
   { ticker: 'TSLA' },
   { ticker: 'GOOGL' },
   { ticker: 'QQQ' },
+  { ticker: '005930.KS'},
   
 //  { ticker: '005930.KS' },
 ]
